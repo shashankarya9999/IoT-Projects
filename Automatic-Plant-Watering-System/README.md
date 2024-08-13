@@ -13,7 +13,7 @@ IOT Based Automated Plant Watering System :-
 2. Connect the moisture sensors to a central hub or controller that can analyse the data and trigger a water pump when the soil moisture is below the set threshold.
 3. Program the system to water specific plants at scheduled times and monitor and adjust watering schedules remotely using a smartphone app for optimal plant care and water conservation.
 
-### Tools and Languages
+### Tools and Components
 
 1) Simulation Tool
    - TinkerCad
